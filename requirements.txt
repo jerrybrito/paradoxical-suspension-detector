@@ -1,0 +1,2 @@
+# Requires: future-absence
+# (Not available on PyPI)
